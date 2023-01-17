@@ -673,6 +673,7 @@ height: 40px;
 .modal-close:hover,
 .modal-close:focus {
     background-color: rgba(64, 75, 191, 1);
+    fill: rgba(255, 255, 255, 1);
 }
 .modal-icon {
     color: rgba(0, 0, 0, 1);
